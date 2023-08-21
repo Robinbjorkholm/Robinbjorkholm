@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on [Finlunch.com](https://github.com/Robinbjorkholm/Finlunch.com)
 
-- ⚡ Fun fact **I have become 1 of the best in everything i tried.**
 
 
 
