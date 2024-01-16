@@ -1,6 +1,6 @@
 <h3 align="center">I'm some creatures that codes in its freetime</h3>
 
-- 🔭 I’m currently working on (https://github.com/Robinbjorkholm/TindeRace)
+- 🔭 I’m currently working on [TindeRace](https://github.com/Robinbjorkholm/TindeRace)
 
 
 
